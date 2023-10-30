@@ -1,0 +1,18 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    background-color: orange;
+  }
+  
+  .gender-selector {
+    justify-content: flex-start;
+  }
+  
+  .site-logo {
+    justify-content: center;
+  }
